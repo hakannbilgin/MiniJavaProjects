@@ -1,14 +1,6 @@
 import java.util.Scanner;
 
 
-/**
- * 
- * 
- * 
- * 
- * @author ondersh
- *
- */
 public class TheGreatestCommonDivisor {
 
 	
